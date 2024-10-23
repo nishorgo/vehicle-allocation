@@ -2,6 +2,10 @@
 
 A FastAPI-based REST API for managing vehicle allocations in an organization. This system allows employees to reserve vehicles for specific dates and manages the allocation lifecycle.
 
+# My Experience
+
+Before this project, I had no prior experience with FastAPI and wasn't familiar with its structure or conventions. However, in just two days—one of which I wasn't fully available—I quickly dove into the specifics and best practices of FastAPI. As a result, there may be some errors in the project. I had planned to implement caching, especially since the project will undergo load testing, but due to lack of time, I couldn't manage to get it done. Additionally, the test coverage isn't as comprehensive as I would have liked. Despite these challenges, this experience felt like a hackathon. I started with no knowledge about the technology but I had to adapt rapidly. It was a great learning opportunity, and I thoroughly enjoyed the challenge. Big thanks to the interviewer!
+
 ## Features
 
 - Vehicle management (CRUD operations)
